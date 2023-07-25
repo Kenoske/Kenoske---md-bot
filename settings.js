@@ -30,10 +30,10 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+918731030752'] // owner number
-global.ownername = "亗нєαяτ╬٨ـﮩﮩ💔٨ـﮩﮩـ╬ɭ៩នន×͜×" // owner name
-global.ytname = "" // yt chanel name
+global.ownername = "亗ʀɪɴ ғᴛ ᴋᴇɴᴏsᴋᴇ×͜×᭄" // owner name
+global.ytname = "https://youtube.com/@KENOSKE_V5.0" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "India, Mizoram, Kolasib" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -48,15 +48,15 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+918731030752']
-global.ownertag = '+918731030752' //your tag number
-global.botname = 'HEARTLESS - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.ownertag = '+918731030752,918787599649' //your tag number
+global.botname = 'Rin Ft Kenoske - MD' //ur bot name
+global.packname = "Rin Ft Kenoske" // sticker packname
+global.author = "Rin" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+918731030752'] //ur premium numbers
+global.premium = ['+918731030752,918787599649'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
