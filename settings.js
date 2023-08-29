@@ -17,7 +17,7 @@ global.alivemsg = `📤I am alive now😇
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -29,10 +29,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+918731030752'] // owner number
-global.ownername = "亗ʀɪɴ ғᴛ ᴋᴇɴᴏsᴋᴇ×͜×᭄" // owner name
+global.vcardowner = ['918731030752'] // owner number
+global.ownername = "亗•|ʀɪɴ☆᭄" // owner name
 global.ytname = "https://youtube.com/@KENOSKE_V5.0" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "http://instagram.com/kenoske_official" // github or insta name
 global.location = "India, Mizoram, Kolasib" // location
 
 //bot body 
@@ -42,21 +42,21 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
+global.antilink = "true" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+918731030752']
-global.ownertag = '+918731030752,918787599649' //your tag number
-global.botname = 'Rin Ft Kenoske - MD' //ur bot name
-global.packname = "Rin Ft Kenoske" // sticker packname
-global.author = "Rin" // sticker author
+global.owner = ['918731030752']
+global.ownertag = '918731030752,918787599649' //your tag number
+global.botname = '𝚁𝙸𝙽 𝙱𝙾𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻' //ur bot name
+global.packname = "𝚁𝙸𝙽 𝙱𝙾𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻" // sticker packname
+global.author = "亗•|ʀɪɴ☆᭄" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ 亗•|ʀɪɴ☆᭄ ]' //
 
 //database
-global.premium = ['+918731030752,918787599649'] //ur premium numbers
+global.premium = ['918731030752,918787599649'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
